@@ -1,1 +1,18 @@
+[ui.shop]
+# {0} is the amount
+ownedCount = "Owned: x{0}"
+nameAndLevel = "{0} Lv{1}"
 
+[ui.shop.stat]
+damage = "Damage"
+firerate = "Firerate"
+capacity = "Capacity"
+reloadTime = "Reload time"
+mobility = "Mobility"
+shootDistance = "Shoot Distance"
+armor = "Armor"
+minigunWindUpTime = "Windup Time"
+spread = "Spread"
+explosionDistance = "Explosion Distance"
+jumpPower = "Jump Power"
+burning = "Burning"
